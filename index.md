@@ -20,7 +20,8 @@ Email: *[le.zhang@sheffield.ac.uk](le.zhang@sheffield.ac.uk)* or *[andrew.senius
 
 ## Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)]
 
-(7). **Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI,International Conference on Medical ImageComputing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
+(7). ![image](https://github.com/andrewsenius/l.zhang/images/MICCAI2018.jpg)
+**Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI,International Conference on Medical ImageComputing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
 
 (6). **Le Zhang**, Ali Gooya, and Alejandro F. Frangi, Semi-supervised assessment of incomplete LV coverage in cardiac MRI using generativeadversarial nets,MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI), pp. 61-68. Springer, Cham, 2017
 
