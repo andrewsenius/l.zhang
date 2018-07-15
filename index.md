@@ -1,15 +1,8 @@
 ## About Le
 
-Strong IT background and sufficient experiences with imaging processing, including machine learning, deep learning and pattern recognition. 4 YEARS EDUCATION in United Kingdom. Over 4 years project and learning experiences in China and UK. Strong interpersonal skills, organizational skills, and communication skills. A proven fast learner, self motivated, confident, willing to take challenges and being able to work under difficult working conditions; flexible and service-minded, being able to be independent or to be active in the team work. High proficiency in Chinese and English language, as well as the multi-cultural minds and life experiences in different countries.
+I am currently a PhD candidate in the Centre of Computational Imaging and Simulation Technologies in Biomedicine (CISTIB), from University of Sheffield. I work under the supervision of Prof. Dr. Alejandro F Frangi (IEEE Fellow), I also have a close link with Dr. Marco Pereanez, Prof. Dr. Steffen Peterson (Queen Mary University of London), Prof. Dr. Stefan K. Piechnik and Prof. Dr. Stefan Neubauer (University of Oxford). I received my MSc degree from Wuhan University of Technology in 2015, and BSc degree from South-Central University for Nationalities in 2012.	
 
-### Education
-Sep.2018 - Aug.2019 **Visiting Student**  University of Leeds (Leeds, UK)
-
-Sep.2015 - Aug.2019 **PhD**  University of Sheffield (Sheffield, UK)
-
-Sep.2012 - Jun.2015 **MSc**  Wuhan University of Technology (Wuhan, China)
-
-Sep.2008 - Jun.2012 **BSc**  South-Central University for Nationalities (Wuhan, China)
+My research interests lie in Medical Image Computing and Machine Learning. My current research topic is Population Cardiac MRI Quality Assessment and Deep Learning.  
 
 ### Publications
 
