@@ -8,7 +8,7 @@
 
 -----------------------------------------------------------------------------------
 
-## About Le
+## Biography [About Le](https://about.me/l.zhang)
 
 I am currently a PhD candidate in the Centre of Computational Imaging and Simulation Technologies in Biomedicine (**CISTIB**), from University of Sheffield. I work under the supervision of **Prof. Dr. Alejandro F Frangi** (IEEE Fellow), I also have a close link with Dr. Marco Pereanez, Prof. Dr. Steffen Peterson (Queen Mary University of London), Prof. Dr. Stefan K. Piechnik and Prof. Dr. Stefan Neubauer (University of Oxford). I received my MSc degree from Wuhan University of Technology in 2015, and BSc degree from South-Central University for Nationalities in 2012.	
 
