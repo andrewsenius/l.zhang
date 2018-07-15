@@ -14,7 +14,7 @@ I am currently a PhD candidate in the Centre of **Computational Imaging and Simu
 
 My research interests lie in Medical Image Computing and Machine Learning. My current research topic is Population Cardiac MRI Quality Assessment and Deep Learning.  
 
-Email: *le.zhang@sheffield.ac.uk* or *andrew.senius@gmail.com*
+Email: *[le.zhang@sheffield.ac.uk](le.zhang@sheffield.ac.uk)* or *andrew.senius@gmail.com*
 
 -----------------------------------------------------------------------------------
 
