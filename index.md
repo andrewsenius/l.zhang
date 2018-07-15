@@ -19,7 +19,7 @@ Sep.2008 - Jun.2012 **BSc**  South-Central University for Nationalities (Wuhan, 
 
 (5). Yang Wang, Jie Yang, and **Le Zhang**, Fast speech keyword recognition based on improved filler model,IEEE 2nd Advanced InformationTechnology, Electronic and Automation Control Conference (IAEAC), IEEE, 2017
 
-(4）. **Le Zhang**, Ali Gooya, Bo Dong, Rui Hua, Steffen E. Petersen, Pau Medrano-Gracia, and Alejandro F. Frangi, Automated quality assessmentof cardiac MR images using convolutional neural networks,MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI),pp. 138-145. Springer, Cham, 2016
+(4). **Le Zhang**, Ali Gooya, Bo Dong, Rui Hua, Steffen E. Petersen, Pau Medrano-Gracia, and Alejandro F. Frangi, Automated quality assessmentof cardiac MR images using convolutional neural networks,MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI),pp. 138-145. Springer, Cham, 2016
 
 (3). **Le Zhang**, Danhong Zhang, Yixin Su, and Chao Wang, Head pose estimation based on feature extraction, fuzzy C-means and neural net-work for driver assistance system,11th IEEE International Conference on Control & Automation (ICCA), pp. 677-682. IEEE, 2014
 
