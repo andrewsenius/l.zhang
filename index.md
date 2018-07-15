@@ -18,7 +18,7 @@ Email: *[le.zhang@sheffield.ac.uk](le.zhang@sheffield.ac.uk)* or *[andrew.senius
 
 -----------------------------------------------------------------------------------
 
-## Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)]
+## Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)]
 
 (7). ![image](https://andrewsenius.github.io/l.zhang/images/MICCAI2018.jpg)
 
