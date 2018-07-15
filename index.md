@@ -13,21 +13,19 @@ Sep.2008 - Jun.2012 **BSc**  South-Central University for Nationalities (Wuhan, 
 
 ### Publications
 
-**Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI,International Conference on Medical ImageComputing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
+7. **Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI,International Conference on Medical ImageComputing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
 
-**Le Zhang**, Ali Gooya, and Alejandro F. Frangi, Semi-supervised assessment of incomplete LV coverage in cardiac MRI using generativeadversarial nets,MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI), pp. 61-68. Springer, Cham, 2017
+6. **Le Zhang**, Ali Gooya, and Alejandro F. Frangi, Semi-supervised assessment of incomplete LV coverage in cardiac MRI using generativeadversarial nets,MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI), pp. 61-68. Springer, Cham, 2017
 
-Yang Wang, Jie Yang, and **Le Zhang**, Fast speech keyword recognition based on improved filler model,IEEE 2nd Advanced InformationTechnology, Electronic and Automation Control Conference (IAEAC), IEEE, 2017
+5. Yang Wang, Jie Yang, and **Le Zhang**, Fast speech keyword recognition based on improved filler model,IEEE 2nd Advanced InformationTechnology, Electronic and Automation Control Conference (IAEAC), IEEE, 2017
 
-**Le Zhang**, Ali Gooya, Bo Dong, Rui Hua, Steffen E. Petersen, Pau Medrano-Gracia, and Alejandro F. Frangi, Automated quality assessmentof cardiac MR images using convolutional neural networks,MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI),pp. 138-145. Springer, Cham, 2016
+4. **Le Zhang**, Ali Gooya, Bo Dong, Rui Hua, Steffen E. Petersen, Pau Medrano-Gracia, and Alejandro F. Frangi, Automated quality assessmentof cardiac MR images using convolutional neural networks,MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI),pp. 138-145. Springer, Cham, 2016
 
-**Le Zhang**, Danhong Zhang, Yixin Su, and Chao Wang, Head pose estimation based on feature extraction, fuzzy C-means and neural net-work for driver assistance system,11th IEEE International Conference on Control & Automation (ICCA), pp. 677-682. IEEE, 2014
+3. **Le Zhang**, Danhong Zhang, Yixin Su, and Chao Wang, Head pose estimation based on feature extraction, fuzzy C-means and neural net-work for driver assistance system,11th IEEE International Conference on Control & Automation (ICCA), pp. 677-682. IEEE, 2014
 
-Chao Wang, Rongzhong Liu, Yuanlong Hou, Qiang Gao, Runmin Hou, and **Le Zhang**, Surplus torque suppression research based on theimproved wavelet neural network,11th IEEE International Conference on Control & Automation (ICCA), pp. 398-403. IEEE, 2014
+2. Chao Wang, Rongzhong Liu, Yuanlong Hou, Qiang Gao, Runmin Hou, and **Le Zhang**, Surplus torque suppression research based on theimproved wavelet neural network,11th IEEE International Conference on Control & Automation (ICCA), pp. 398-403. IEEE, 2014
 
-**Le Zhang**, Danhong Zhang, Yixin Su, and Fei Long, Adaptive kernel-bandwidth object tracking based on Mean-shift algorithm,IEEE Inter-national Conference on Intelligent Control and Information Processing (ICICIP), pp. 413-416. IEEE, 2013
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. **Le Zhang**, Danhong Zhang, Yixin Su, and Fei Long, Adaptive kernel-bandwidth object tracking based on Mean-shift algorithm,IEEE Inter-national Conference on Intelligent Control and Information Processing (ICICIP), pp. 413-416. IEEE, 2013
 
 ### Project
 
