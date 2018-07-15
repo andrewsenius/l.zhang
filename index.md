@@ -28,6 +28,18 @@ My research interests lie in Medical Image Computing and Machine Learning. My cu
 
 (1). **Le Zhang**, Danhong Zhang, Yixin Su, and Fei Long, Adaptive kernel-bandwidth object tracking based on Mean-shift algorithm,IEEE Inter-national Conference on Intelligent Control and Information Processing (ICICIP), pp. 413-416. IEEE, 2013
 
-## Project
+## Professional Activities
 
-My research involved a comprehensive exploration of the development of robust and interpretable deep learning and machine learning models for large-scale population imaging computation, including cardiac MRI quality assessment. In my current research, I am seeking to improve the transfer ability, generalization, and robustness of deep adversarial models, such as conditional generative adversarial net (cGAN). Another focus is the interpretation of deep adversarial models through human-understandable feedback, including data synthesis and visualisation, and attribute-based reasoning. My ongoing programme of research aims to synthesize novel data that is difficult to acquire for missing data of cardiac MRI, and realise expert-level recognition performance through knowledge-guided inference mechanisms.
+2018 **Reviewer** IEEE Transactions on Medical Imaging
+
+2017 **Reviewer** International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+
+## Awards and Honors
+
+May.2015 **Ph.D Scholarship**, China Scholarship Council
+
+Nov.2014 **Ph.D Scholarship (Tuition Fee waiver)**, Department of Electrical and Electronic Engineering, University of Sheffield
+
+Sep.2013 Student Scholarship  School of Automation, Wuhan Univeristy of Technology
+
+Sep.2011 Student Scholarship School of Computer Science, South-Central University for Nationalities
