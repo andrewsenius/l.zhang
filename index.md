@@ -12,7 +12,7 @@ I am currently a PhD candidate in the Centre of Computational Imaging and Simula
 
 My research interests lie in Medical Image Computing and Machine Learning. My current research topic is Population Cardiac MRI Quality Assessment and Deep Learning.  
 
-### Publications
+## Publications
 
 (7). **Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI,International Conference on Medical ImageComputing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
 
@@ -28,6 +28,6 @@ My research interests lie in Medical Image Computing and Machine Learning. My cu
 
 (1). **Le Zhang**, Danhong Zhang, Yixin Su, and Fei Long, Adaptive kernel-bandwidth object tracking based on Mean-shift algorithm,IEEE Inter-national Conference on Intelligent Control and Information Processing (ICICIP), pp. 413-416. IEEE, 2013
 
-### Project
+## Project
 
 My research involved a comprehensive exploration of the development of robust and interpretable deep learning and machine learning models for large-scale population imaging computation, including cardiac MRI quality assessment. In my current research, I am seeking to improve the transfer ability, generalization, and robustness of deep adversarial models, such as conditional generative adversarial net (cGAN). Another focus is the interpretation of deep adversarial models through human-understandable feedback, including data synthesis and visualisation, and attribute-based reasoning. My ongoing programme of research aims to synthesize novel data that is difficult to acquire for missing data of cardiac MRI, and realise expert-level recognition performance through knowledge-guided inference mechanisms.
