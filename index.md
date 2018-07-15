@@ -48,6 +48,6 @@ May.2015 **Ph.D Scholarship**, China Scholarship Council
 
 Nov.2014 **Ph.D Scholarship (Tuition Fee waiver)**, Department of Electrical and Electronic Engineering, University of Sheffield
 
-Sep.2013 Student Scholarship  School of Automation, Wuhan Univeristy of Technology
+Sep.2013 Student Scholarship, School of Automation, Wuhan Univeristy of Technology
 
-Sep.2011 Student Scholarship School of Computer Science, South-Central University for Nationalities
+Sep.2011 Student Scholarship, School of Computer Science, South-Central University for Nationalities
