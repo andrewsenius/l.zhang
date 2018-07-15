@@ -3,4 +3,5 @@ logo: /assets/img/me_2.PNG
 description: Due to graduate in August 2019, I will be open to a research position.
 #show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: next
