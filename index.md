@@ -32,11 +32,11 @@ Email: *[le.zhang@sheffield.ac.uk](le.zhang@sheffield.ac.uk)* or *[andrew.senius
 
 (4). ![image](https://andrewsenius.github.io/l.zhang/images/SASHIMI2016.jpg)
 
-**Le Zhang**, Ali Gooya, Bo Dong, Rui Hua, Steffen E. Petersen, Pau Medrano-Gracia, and Alejandro F. Frangi, Automated quality assessmentof cardiac MR images using convolutional neural networks,MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI),pp. 138-145. Springer, Cham, 2016
+**Le Zhang**, Ali Gooya, Bo Dong, Rui Hua, Steffen E. Petersen, Pau Medrano-Gracia, and Alejandro F. Frangi, Automated quality assessmentof cardiac MR images using convolutional neural networks, MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI),pp. 138-145. Springer, Cham, 2016
 
-(3). **Le Zhang**, Danhong Zhang, Yixin Su, and Chao Wang, Head pose estimation based on feature extraction, fuzzy C-means and neural net-work for driver assistance system,11th IEEE International Conference on Control & Automation (ICCA), pp. 677-682. IEEE, 2014
+(3). **Le Zhang**, Danhong Zhang, Yixin Su, and Chao Wang, Head pose estimation based on feature extraction, fuzzy C-means and neural net-work for driver assistance system,11th IEEE International Conference on Control & Automation (ICCA), pp. 677-682. IEEE, 2014. [[PDF](https://ieeexplore.ieee.org/abstract/document/6871001/)]
 
-(2). Chao Wang, Rongzhong Liu, Yuanlong Hou, Qiang Gao, Runmin Hou, and **Le Zhang**, Surplus torque suppression research based on theimproved wavelet neural network,11th IEEE International Conference on Control & Automation (ICCA), pp. 398-403. IEEE, 2014
+(2). Chao Wang, Rongzhong Liu, Yuanlong Hou, Qiang Gao, Runmin Hou, and **Le Zhang**, Surplus torque suppression research based on theimproved wavelet neural network,11th IEEE International Conference on Control & Automation (ICCA), pp. 398-403. IEEE, 2014. [[PDF](https://ieeexplore.ieee.org/document/6870953/)]
 
 (1). **Le Zhang**, Danhong Zhang, Yixin Su, and Fei Long, Adaptive kernel-bandwidth object tracking based on Mean-shift algorithm,IEEE Inter-national Conference on Intelligent Control and Information Processing (ICICIP), pp. 413-416. IEEE, 2013. [[PDF](https://ieeexplore.ieee.org/abstract/document/6568108/)]
 
