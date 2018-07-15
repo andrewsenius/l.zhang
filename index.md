@@ -14,9 +14,11 @@ I am currently a PhD candidate in the Centre of Computational Imaging and Simula
 
 My research interests lie in Medical Image Computing and Machine Learning. My current research topic is Population Cardiac MRI Quality Assessment and Deep Learning.  
 
+Email: le.zhang@sheffield.ac.uk or andrew.senius@gmail.com
+
 -----------------------------------------------------------------------------------
 
-## Publications
+## Publications [Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)
 
 (7). **Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI,International Conference on Medical ImageComputing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
 
