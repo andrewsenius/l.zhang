@@ -38,7 +38,7 @@ Email: *[le.zhang@sheffield.ac.uk](le.zhang@sheffield.ac.uk)* or *[andrew.senius
 
 (2). Chao Wang, Rongzhong Liu, Yuanlong Hou, Qiang Gao, Runmin Hou, and **Le Zhang**, Surplus torque suppression research based on theimproved wavelet neural network,11th IEEE International Conference on Control & Automation (ICCA), pp. 398-403. IEEE, 2014
 
-(1). **Le Zhang**, Danhong Zhang, Yixin Su, and Fei Long, Adaptive kernel-bandwidth object tracking based on Mean-shift algorithm,IEEE Inter-national Conference on Intelligent Control and Information Processing (ICICIP), pp. 413-416. IEEE, 2013
+(1). **Le Zhang**, Danhong Zhang, Yixin Su, and Fei Long, Adaptive kernel-bandwidth object tracking based on Mean-shift algorithm,IEEE Inter-national Conference on Intelligent Control and Information Processing (ICICIP), pp. 413-416. IEEE, 2013. [[PDF](https://ieeexplore.ieee.org/abstract/document/6568108/)]
 
 -----------------------------------------------------------------------------------
 
