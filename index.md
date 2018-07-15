@@ -18,7 +18,7 @@ Email: le.zhang@sheffield.ac.uk or andrew.senius@gmail.com
 
 -----------------------------------------------------------------------------------
 
-## Publications [Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)
+## Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)]
 
 (7). **Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI,International Conference on Medical ImageComputing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
 
