@@ -2,8 +2,6 @@
 
 Strong IT background and sufficient experiences with imaging processing, including machine learning, deep learning and pattern recognition. 4 YEARS EDUCATION in United Kingdom. Over 4 years project and learning experiences in China and UK. Strong interpersonal skills, organizational skills, and communication skills. A proven fast learner, self motivated, confident, willing to take challenges and being able to work under difficult working conditions; flexible and service-minded, being able to be independent or to be active in the team work. High proficiency in Chinese and English language, as well as the multi-cultural minds and life experiences in different countries.
 
-#![image](https://andrewsenius.github.io/le.zhang/20180707235557.png)
-
 ### Education
 Sep.2018 - Aug.2019 **Visiting Student**  University of Leeds (Leeds, UK)
 
