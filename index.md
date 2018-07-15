@@ -6,11 +6,15 @@
 
 **Sep 2017:** I made a presentation in the SASHIMI17 workshop at MICCAI 2017 in Quebec, Canada.
 
+-----------------------------------------------------------------------------------
+
 ## About Le
 
 I am currently a PhD candidate in the Centre of Computational Imaging and Simulation Technologies in Biomedicine (**CISTIB**), from University of Sheffield. I work under the supervision of **Prof. Dr. Alejandro F Frangi** (IEEE Fellow), I also have a close link with Dr. Marco Pereanez, Prof. Dr. Steffen Peterson (Queen Mary University of London), Prof. Dr. Stefan K. Piechnik and Prof. Dr. Stefan Neubauer (University of Oxford). I received my MSc degree from Wuhan University of Technology in 2015, and BSc degree from South-Central University for Nationalities in 2012.	
 
 My research interests lie in Medical Image Computing and Machine Learning. My current research topic is Population Cardiac MRI Quality Assessment and Deep Learning.  
+
+-----------------------------------------------------------------------------------
 
 ## Publications
 
@@ -28,11 +32,15 @@ My research interests lie in Medical Image Computing and Machine Learning. My cu
 
 (1). **Le Zhang**, Danhong Zhang, Yixin Su, and Fei Long, Adaptive kernel-bandwidth object tracking based on Mean-shift algorithm,IEEE Inter-national Conference on Intelligent Control and Information Processing (ICICIP), pp. 413-416. IEEE, 2013
 
+-----------------------------------------------------------------------------------
+
 ## Professional Activities
 
 2018 **Reviewer** IEEE Transactions on Medical Imaging
 
 2017 **Reviewer** International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+
+-----------------------------------------------------------------------------------
 
 ## Awards and Honors
 
