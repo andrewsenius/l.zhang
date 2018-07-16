@@ -1,10 +1,8 @@
 ## News
 
-**July 2018:** I have been invited to give a presentation at the 2rd International Youth Conference (**Topic: Artificial Intelligence in Medical Imaging**) in Shenzhen, China.
-
-**Jun 2018:** I have one paper accepted to **MICCAI 2018**, Granda, Spain.
-
-**Sep 2017:** I made a presentation in the SASHIMI17 workshop at MICCAI 2017 in Quebec, Canada.
+*   **July 2018:** I have been invited to give a presentation at the 2rd International Youth Conference (**Topic: Artificial Intelligence in Medical Imaging**) in Shenzhen, China.
+*   **Jun 2018:** I have one paper accepted to **MICCAI 2018**, Granda, Spain.
+*   **Sep 2017:** I made a presentation in the SASHIMI17 workshop at MICCAI 2017 in Quebec, Canada.
 
 -----------------------------------------------------------------------------------
 
