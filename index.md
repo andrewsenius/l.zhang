@@ -12,6 +12,8 @@ I am currently a PhD candidate in the Centre of **[Computational Imaging and Sim
 
 My research interests lie in Medical Image Computing and Machine Learning. My current research topic is Population Cardiac MRI Quality Assessment and Deep Learning using UK Biobank Dataset.  
 
+Please find my detailed CV [Here](https://andrewsenius.github.io/l.zhang/images/CV.pdf).
+
 -----------------------------------------------------------------------------------
 
 ## Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)]
