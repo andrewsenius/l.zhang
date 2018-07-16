@@ -21,7 +21,7 @@
         {% endif %}
 
         <p>{{ site.description1 | default: site.github.project_tagline }}</p>
-        <p>{{ site.description2 | default: site.github.project_tagline }}</p>
+        {{ site.description2 | default: site.github.project_tagline }}
 
         {% if site.show_downloads %}
         <ul class="downloads">
