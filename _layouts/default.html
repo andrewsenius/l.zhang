@@ -21,7 +21,14 @@
         {% endif %}
 
         <p>{{ site.description1 | default: site.github.project_tagline }}</p>
-        {{ site.description2 | default: site.github.project_tagline }}
+        
+        </section>
+          <footer>
+          {% if site.github.is_project_page %}
+          <p>Email: <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          {% endif %}
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+         </footer>
 
         {% if site.show_downloads %}
         <ul class="downloads">
