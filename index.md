@@ -34,7 +34,8 @@ Please find my detailed CV **[Here](https://andrewsenius.github.io/l.zhang/image
 
 ## Professional Activities
 
-*   2018 **Reviewer** IEEE Transactions on Medical Imaging
+*   2018 **Reviewer** IEEE Journal of Biomedical and Health Informatics (JBHI)
+*   2018 **Reviewer** IEEE Transactions on Medical Imaging (TMI)
 *   2017 **Reviewer** International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
 -----------------------------------------------------------------------------------
