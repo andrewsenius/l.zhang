@@ -21,6 +21,8 @@ Please find my detailed CV **[Here](https://andrewsenius.github.io/l.zhang/image
 
 *   **Le Zhang**, Ali Gooya, Macro Pereanez, Bo Dong, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Automatic Assessment of Full Left Ventricular Coverage in Cardiac Cine Magnetic Resonance Imaging with Fisher-Discriminative 3D CNN_**, IEEE Transactions on Biomedical Engineering, Nov, 2018.
 
+*   Rahman Attar, Marco Pereanez, Ali Gooya, Xenia Alba, **Le Zhang**, Stefan K. Piechnik, Stefan Neubauer, Steffen E. Petersen, Alejandro F. Frangi, **_High Throughput Computation of Reference Ranges of Biventricular Cardiac Function on the UK Biobank Population Cohort_**, MICCAI Statistical Atlases and Computational Modeling of the Heart (STACOM) Workshop, 2018.
+
 *   **Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI_**, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
 
 *   **Le Zhang**, Ali Gooya, and Alejandro F. Frangi, **_Semi-supervised assessment of incomplete LV coverage in cardiac MRI using generativeadversarial nets_**, MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI), pp. 61-68. Springer, Cham, 2017
