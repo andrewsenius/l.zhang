@@ -19,15 +19,9 @@ Please find my detailed CV **[Here](https://andrewsenius.github.io/l.zhang/image
 
 ## Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)]
 
-![image](https://andrewsenius.github.io/l.zhang/images/MICCAI2018.jpg)
-
 *   **Le Zhang**, Macro Pereanez, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, _Multi-Input and Dataset-InvariantAdversarial Learning (MDAL) for Left and Right-Ventricular Coverage Estimation in Cardiac MRI_, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2018.
 
-![image](https://andrewsenius.github.io/l.zhang/images/SASHIMI2017.jpg)
-
 *   **Le Zhang**, Ali Gooya, and Alejandro F. Frangi, _Semi-supervised assessment of incomplete LV coverage in cardiac MRI using generativeadversarial nets_, MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI), pp. 61-68. Springer, Cham, 2017
-
-![image](https://andrewsenius.github.io/l.zhang/images/SASHIMI2016.jpg)
 
 *   **Le Zhang**, Ali Gooya, Bo Dong, Rui Hua, Steffen E. Petersen, Pau Medrano-Gracia, and Alejandro F. Frangi, _Automated quality assessmentof cardiac MR images using convolutional neural networks_, MICCAI Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI), pp. 138-145. Springer, Cham, 2016
 
