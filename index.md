@@ -37,10 +37,3 @@ My research interests lie in Medical Image Computing and Machine Learning. My cu
 *   2017 **Reviewer** International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
 -----------------------------------------------------------------------------------
-
-## Awards and Honors
-
-*   May.2015 **Ph.D Scholarship**, China Scholarship Council
-*   Nov.2014 **Ph.D Scholarship (Tuition Fee waiver)**, Department of Electrical and Electronic Engineering, University of Sheffield
-*   Sep.2013 Student Scholarship, School of Automation, Wuhan Univeristy of Technology
-*   Sep.2011 Student Scholarship, School of Computer Science, South-Central University for Nationalities
