@@ -18,6 +18,8 @@ My research interests lie in Medical Image Computing and Machine Learning. My cu
 
 ## Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)]
 
+*   Attar, Rahman, Marco Pereañez, Ali Gooya, Xènia Albà, **Le Zhang**, Milton Hoz de Vila, Aaron M. Lee et al. **_Quantitative CMR Population Imaging on 20,000 Subjects of the UK Biobank Imaging Study: LV/RV Quantification Pipeline and its Evaluation**_, Medical Image Analysis, May, 2019.
+
 *   **Le Zhang**, Ali Gooya, Macro Pereanez, Bo Dong, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Automatic Assessment of Full Left Ventricular Coverage in Cardiac Cine Magnetic Resonance Imaging with Fisher-Discriminative 3D CNN_**, IEEE Transactions on Biomedical Engineering, Nov, 2018.
 
 *   Rahman Attar, Marco Pereanez, Ali Gooya, Xenia Alba, **Le Zhang**, Stefan K. Piechnik, Stefan Neubauer, Steffen E. Petersen, Alejandro F. Frangi, **_High Throughput Computation of Reference Ranges of Biventricular Cardiac Function on the UK Biobank Population Cohort_**, MICCAI Statistical Atlases and Computational Modeling of the Heart (STACOM) Workshop, 2018.
