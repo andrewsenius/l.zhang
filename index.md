@@ -20,11 +20,11 @@ My current research aims to create a prototype software (or a decision-support t
 
 ## Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?user=eFrU7bMAAAAJ&hl=en)]
 
-*   **Le Zhang**, Macro Pereanez, Christopher Bowles, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Unsupervised Standard Plane Synthesis in Population Cine MRI via Cycle-Consistent Adversarial Networks_**, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2019.
+*   **Le Zhang**, Macro Pereanez, Christopher Bowles, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Unsupervised Standard Plane Synthesis in Population Cine MRI via Cycle-Consistent Adversarial Networks_**, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2019. **(AR < 30%)**
 
 *   **Le Zhang**, Macro Pereanez, Christopher Bowles, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Missing Slice Imputation in Population CMR Imaging via Conditional Generative Adversarial Nets_**, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2019. **(AR < 30%)**
 
-*   Attar, Rahman, Marco Pereañez, Ali Gooya, Xènia Albà, **Le Zhang**, Milton Hoz de Vila, Aaron M. Lee et al. **_Quantitative CMR Population Imaging on 20,000 Subjects of the UK Biobank Imaging Study: LV/RV Quantification Pipeline and its Evaluation_**, Medical Image Analysis, May, 2019. **(AR < 30%)**
+*   Attar, Rahman, Marco Pereañez, Ali Gooya, Xènia Albà, **Le Zhang**, Milton Hoz de Vila, Aaron M. Lee et al. **_Quantitative CMR Population Imaging on 20,000 Subjects of the UK Biobank Imaging Study: LV/RV Quantification Pipeline and its Evaluation_**, Medical Image Analysis, May, 2019. 
 
 *   **Le Zhang**, Ali Gooya, Macro Pereanez, Bo Dong, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Automatic Assessment of Full Left Ventricular Coverage in Cardiac Cine Magnetic Resonance Imaging with Fisher-Discriminative 3D CNN_**, IEEE Transactions on Biomedical Engineering, Nov, 2018.
 
