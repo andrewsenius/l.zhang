@@ -2,9 +2,9 @@
 
 *   **June 2019:** I got two papers with straight acceptance by MICCAI 2019 in Shenzhen (AR < 30%).
 *   **May 2019:** I have moved to London and work as a postdoctral research fellow at University College London.
-*   **November 2018:** I have one journal paper accepted by **IEEE Transactions on Biomedical Engineering**.
-*   **July 2018:** I have been invited to give a presentation at the 2rd International Youth Conference (**Topic: Artificial Intelligence in Medical Imaging**) in Shenzhen, China.
-*   **June 2018:** I have one paper accepted to **MICCAI 2018**, Granda, Spain (AR < 30%).
+*   **November 2018:** I have one journal paper accepted by IEEE Transactions on Biomedical Engineering.
+*   **July 2018:** I have been invited to give a presentation at the 2rd International Youth Conference (Topic: Artificial Intelligence in Medical Imaging) in Shenzhen, China.
+*   **June 2018:** I have one paper accepted to MICCAI 2018, Granda, Spain (AR < 30%).
 
 -----------------------------------------------------------------------------------
 
