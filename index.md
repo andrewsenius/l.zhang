@@ -8,7 +8,7 @@
 
 -----------------------------------------------------------------------------------
 
-## Biography [[About Le](https://iris.ucl.ac.uk/iris/browse/profile?upi=LZHAF35)]
+## Biography [[About Le](http://pond.cs.ucl.ac.uk/team/)]
 
 I am a postdoctoral research fellow at the Multiple Sclerosis (MS) Centre, Institute of Neurology, University College London, working with **[Prof. Olga Ciccarelli](https://iris.ucl.ac.uk/iris/browse/profile?upi=OCICC52)**, **[Dr. Parashkev Nachev](https://iris.ucl.ac.uk/iris/browse/profile?upi=PNACH75)** and **[Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/)**. Before my postdoc research, I was a PhD student in the Center of **[Computational Imaging and Simulation Technologies in Biomedicine (CISTIB)](http://www.cistib.org/)**, from University of Sheffield. I work under the supervision of **[Prof. Dr. Alejandro F Frangi](http://www.cistib.org/afrangi/)** (IEEE Fellow) and **[Dr. Marco Pereanez](https://scholar.google.com.hk/citations?hl=en&user=LsKzGqkAAAAJ&view_op=list_works&sortby=pubdate)**, I also have a close link with **[Prof. Dr. Steffen Peterson](https://www.qmul.ac.uk/whri/people/academic-staff/items/petersensteffen.html)** (Queen Mary University of London), **[Prof. Dr. Stefan K. Piechnik](https://www.rdm.ox.ac.uk/people/stefan-piechnik)** and **[Prof. Dr. Stefan Neubauer](https://www.rdm.ox.ac.uk/people/stefan-neubauer)** (University of Oxford).   
 
