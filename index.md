@@ -23,7 +23,7 @@ My current research aims to create a prototype software (or a decision-support t
 
 *   **Le Zhang**, Macro Pereanez, Christopher Bowles, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Unsupervised Standard Plane Synthesis in Population Cine MRI via Cycle-Consistent Adversarial Networks_**, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2019. **(AR < 30%)**
 
-*   **Le Zhang**, Macro Pereanez, Christopher Bowles, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Missing Slice Imputation in Population CMR Imaging via Conditional Generative Adversarial Nets_**, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2019. **(AR < 30%)**
+*   **Le Zhang**, Macro Pereanez, Christopher Bowles, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Missing Slice Imputation in Population CMR Imaging via Conditional Generative Adversarial Nets_**, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2019. **(nominated for the Young Scientist Award)** **(AR < 30%)**
 
 *   Attar, Rahman, Marco Pereañez, Ali Gooya, Xènia Albà, **Le Zhang**, Milton Hoz de Vila, Aaron M. Lee et al. **_Quantitative CMR Population Imaging on 20,000 Subjects of the UK Biobank Imaging Study: LV/RV Quantification Pipeline and its Evaluation_**, Medical Image Analysis, May, 2019. 
 
