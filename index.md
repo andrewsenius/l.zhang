@@ -1,5 +1,6 @@
 ## News
 
+*   **October 2019:** One of my MICCAI 2019 papers has been nominated for the Young Scientist Award.
 *   **June 2019:** I got two papers with straight acceptance by MICCAI 2019 in Shenzhen (AR < 30%).
 *   **May 2019:** I have moved to London and work as a postdoctral research fellow at University College London.
 *   **November 2018:** I have one journal paper accepted by IEEE Transactions on Biomedical Engineering.
