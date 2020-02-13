@@ -19,7 +19,7 @@ My current research aims to create a prototype software (or a decision-support t
 
 -----------------------------------------------------------------------------------
 
-## Selected Publications [[Google Scholar](https://scholar.google.co.uk/citations?user=eFrU7bMAAAAJ&hl=en)]
+## Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=N3gALRkAAAAJ)]
 
 *   **Le Zhang**, Macro Pereanez, Christopher Bowles, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, **_Unsupervised Standard Plane Synthesis in Population Cine MRI via Cycle-Consistent Adversarial Networks_**, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2019. **(AR < 30%)**
 
