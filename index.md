@@ -1,5 +1,6 @@
 ## News
 
+*   **June 2020:** I have one paper accepted to MICCAI 2020.
 *   **October 2019:** One of my MICCAI 2019 papers has been nominated for the Young Scientist Award.
 *   **June 2019:** I got two papers with straight acceptance by MICCAI 2019 in Shenzhen (AR < 30%).
 *   **May 2019:** I have moved to London and work as a postdoctral research fellow at University College London.
