@@ -1,5 +1,6 @@
 ## News
 
+*   **September 2020:** I have one paper accepted to NeurIPS 2020.
 *   **August 2020:** The extended version of our MICCAI 2019 paper on missing slice imputation has been accepted by MedIA.
 *   **June 2020:** I have one paper accepted to MICCAI 2020.
 *   **October 2019:** One of my MICCAI 2019 papers has been nominated for the Young Scientist Award.
